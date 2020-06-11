@@ -1,0 +1,27 @@
+.root {
+     -fx-background-image: url(im.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+.label {
+
+    -fx-font-size: 14px;
+    -fx-font-family: 'Pacifico';
+   
+    
+}
+
+#label-Welcome {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-radius: 10px;
+    -fx-background-color: burlywood;
+    -fx-font-size: 14px;
+}
+
+.button:hover {
+    -fx-background-color:brown
+}
